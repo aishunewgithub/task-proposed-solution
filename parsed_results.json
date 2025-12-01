@@ -1,0 +1,2452 @@
+[
+  {
+    "doc_type": "hybrid",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Fdiaochatongjisi%252F116219%252F116227%252F5629762%252F2025032117120920108.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:08.971562+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 28.8,
+        "price": 3.5,
+        "value": 100.8,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 34.2,
+        "price": 5.4,
+        "value": 184.68000000000004,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 56.0,
+        "price": 0.5,
+        "value": 28.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 53.1,
+        "price": 3.0,
+        "value": 159.3,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 52.5,
+        "price": 1.1,
+        "value": 57.75000000000001,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 43.0,
+        "price": 3.0,
+        "value": 129.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 49.6,
+        "price": 0.7,
+        "value": 34.72,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 57.7,
+        "price": 2.4,
+        "value": 138.48,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.6,
+        "price": 33.5,
+        "value": 53.6,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 4.0,
+        "value": 800.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 320.0,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.5,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.0,
+        "price": 100.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "board_meeting",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5791337%252F2025072514491320935.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:13.748012+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 980.0,
+        "price": 200.0,
+        "value": 196000.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 5.0,
+        "value": 1010.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 4.0,
+        "value": 800.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 4.0,
+        "value": 800.0,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "board_meeting",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5791337%252F2025072515345631434.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:15.518362+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 108.0,
+        "price": 199.0,
+        "value": 21492.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 199.0,
+        "price": 9.0,
+        "value": 1791.0,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "hybrid",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Fdiaochatongjisi%252F116219%252F116227%252F5427661%252F2024080916460056326.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:20.588412+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 32.3,
+        "price": 3.2,
+        "value": 103.36,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 38.3,
+        "price": 6.0,
+        "value": 229.79999999999998,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 55.5,
+        "price": 4.2,
+        "value": 233.10000000000002,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 55.1,
+        "price": 3.0,
+        "value": 165.3,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 53.6,
+        "price": 9.9,
+        "value": 530.64,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 48.9,
+        "price": 11.2,
+        "value": 547.68,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 60.1,
+        "price": 11.9,
+        "value": 715.19,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 2.7,
+        "price": 36.3,
+        "value": 98.01,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 4.0,
+        "value": 800.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 320.0,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.5,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.0,
+        "price": 100.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "hybrid",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Fdiaochatongjisi%252F116219%252F116225%252F5578788%252F2025012715362376525.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:21.668214+00:00",
+    "metadata": {
+      "report_date": "2024-12-31",
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": "2024-12-31"
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 525.0,
+        "price": 7.0,
+        "value": 3675.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 109.0,
+        "price": 755.0,
+        "value": 82295.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 44.0,
+        "price": 400.0,
+        "value": 17600.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 367.0,
+        "price": 257.0,
+        "value": 94319.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 156.0,
+        "price": 119.0,
+        "value": 18564.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 78.0,
+        "price": 612.0,
+        "value": 47736.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 277.0,
+        "price": 183.0,
+        "value": 50691.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 124.0,
+        "price": 882.0,
+        "value": 109368.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 175.0,
+        "price": 101.0,
+        "value": 17675.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 102.0,
+        "price": 895.0,
+        "value": 91290.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 573.0,
+        "price": 441.0,
+        "value": 252693.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 250.0,
+        "price": 217.0,
+        "value": 54250.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 225.0,
+        "price": 194.0,
+        "value": 43650.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 112.0,
+        "price": 107.0,
+        "value": 11984.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 87.0,
+        "price": 785.0,
+        "value": 68295.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 222.0,
+        "price": 193.0,
+        "value": 42846.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 169.0,
+        "price": 154.0,
+        "value": 26026.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 184.0,
+        "price": 120.0,
+        "value": 22080.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 66.0,
+        "price": 449.0,
+        "value": 29634.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 418.0,
+        "price": 522.0,
+        "value": 218196.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 233.0,
+        "price": 181.0,
+        "value": 42173.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 55.0,
+        "price": 418.0,
+        "value": 22990.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 221.0,
+        "price": 271.0,
+        "value": 59891.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 162.0,
+        "price": 287.0,
+        "value": 46494.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 62.0,
+        "price": 477.0,
+        "value": 29574.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 131.0,
+        "price": 812.0,
+        "value": 106372.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 19.0,
+        "price": 105.0,
+        "value": 1995.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 245.0,
+        "price": 190.0,
+        "value": 46550.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 196.0,
+        "price": 132.0,
+        "value": 25872.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 47.0,
+        "price": 302.0,
+        "value": 14194.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 51.0,
+        "price": 568.0,
+        "value": 28968.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 97.0,
+        "price": 528.0,
+        "value": 51216.0,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "hybrid",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Fdiaochatongjisi%252F116219%252F116227%252F5427648%252F2024080916440490588.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:26.277792+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.3,
+        "price": 12.3,
+        "value": 15.990000000000002,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 45.6,
+        "price": 1.4,
+        "value": 63.839999999999996,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.4,
+        "price": 9.6,
+        "value": 13.44,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 2.0,
+        "price": 23.5,
+        "value": 47.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 9.4,
+        "price": 12.7,
+        "value": 119.38,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 52.3,
+        "price": 23.2,
+        "value": 1213.36,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 61.5,
+        "price": 0.2,
+        "value": 12.3,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 18.2,
+        "price": 13.5,
+        "value": 245.7,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 27.5,
+        "price": 25.2,
+        "value": 693.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 199.0,
+        "price": 9.0,
+        "value": 1791.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 50.0,
+        "price": 400.0,
+        "value": 20000.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.5,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.0,
+        "price": 100.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 50.0,
+        "price": 50.0,
+        "value": 2500.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "hybrid",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Fdiaochatongjisi%252F116219%252F116227%252F5791327%252F2025072514434090190.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:30.277151+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 5.0,
+        "value": 1010.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 5.0,
+        "value": 1010.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.2,
+        "price": 10.2,
+        "value": 12.239999999999998,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 45.0,
+        "price": 0.6,
+        "value": 27.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.8,
+        "price": 6.4,
+        "value": 11.520000000000001,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.7,
+        "price": 20.3,
+        "value": 14.209999999999999,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 9.0,
+        "price": 10.6,
+        "value": 95.39999999999999,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 56.8,
+        "price": 21.7,
+        "value": 1232.56,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 63.8,
+        "price": 1.5,
+        "value": 95.69999999999999,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 34.8,
+        "price": 24.7,
+        "value": 859.56,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 31.9,
+        "price": 29.3,
+        "value": 934.67,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 5.0,
+        "value": 1010.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 5.0,
+        "value": 1010.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 199.0,
+        "price": 9.0,
+        "value": 1791.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 50.0,
+        "price": 400.0,
+        "value": 20000.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.5,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.0,
+        "price": 100.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 50.0,
+        "price": 50.0,
+        "value": 2500.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "board_meeting",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5780746%252F2025071514365963541.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:39.469477+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 201.0,
+        "price": 6.0,
+        "value": 1206.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 5.0,
+        "price": 1.0,
+        "value": 5.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 6.0,
+        "value": 1200.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 5.0,
+        "value": 1010.0,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "board_meeting",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Ftiaofasi%252F144941%252F144979%252F3941920%252F5780746%252F2025071514371386227.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:41.344466+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 8.0,
+        "price": 202.0,
+        "value": 1616.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 2.0,
+        "price": 1.0,
+        "value": 2.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 6.0,
+        "value": 1200.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 200.0,
+        "price": 6.0,
+        "value": 1200.0,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  },
+  {
+    "doc_type": "hybrid",
+    "source_url": "https://storage.googleapis.com/bilby-scraper-pdfs-prod/China%2Fbank%2FPeopleBankOfChina2%2Fhttp%253A%252F%252Fwww.pbc.gov.cn%252Fdiaochatongjisi%252F116219%252F116227%252F5629746%252F2025032117102277681.pdf",
+    "extraction_timestamp": "2025-12-01T18:52:45.022177+00:00",
+    "metadata": {
+      "report_date": null,
+      "exchange": null,
+      "currency": "CNY",
+      "language": "zh-CN"
+    },
+    "records": [
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.9,
+        "price": 11.6,
+        "value": 10.44,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 45.2,
+        "price": 0.4,
+        "value": 18.080000000000002,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 3.6,
+        "price": 7.9,
+        "value": 28.44,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 2.8,
+        "price": 27.8,
+        "value": 77.84,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 8.5,
+        "price": 11.7,
+        "value": 99.44999999999999,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 53.2,
+        "price": 23.6,
+        "value": 1255.5200000000002,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 64.0,
+        "price": 2.5,
+        "value": 160.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 17.3,
+        "price": 13.3,
+        "value": 230.09000000000003,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 27.4,
+        "price": 25.9,
+        "value": 709.66,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 1.0,
+        "value": 202.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 2.0,
+        "value": 404.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 3.0,
+        "value": 606.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 202.0,
+        "price": 4.0,
+        "value": 808.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 199.0,
+        "price": 9.0,
+        "value": 1791.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 50.0,
+        "price": 400.0,
+        "value": 20000.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.5,
+        "price": 0.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 0.0,
+        "price": 100.0,
+        "value": null,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 50.0,
+        "price": 50.0,
+        "value": 2500.0,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      },
+      {
+        "security_name": null,
+        "security_code": null,
+        "client_name": null,
+        "transaction_type": null,
+        "quantity": 1.0,
+        "price": 0.5,
+        "value": 0.5,
+        "transaction_date": null
+      }
+    ],
+    "data_quality": {
+      "completeness_score": 1.0,
+      "validation_warnings": []
+    }
+  }
+]

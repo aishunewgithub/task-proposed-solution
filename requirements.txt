@@ -1,0 +1,16 @@
+requests
+pandas
+numpy
+os
+re
+from io import BytesIO
+datetime
+json
+pdfplumber
+camelot
+pdf2image 
+pytesseract
+fitz
+tools
+pymupdf
+pdfminer.high_level
