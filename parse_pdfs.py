@@ -54,7 +54,7 @@ from pdfminer.high_level import extract_text as pdfminer_extract
 
 
 #Reading the file in pandas df
-excel_file_links_df = pd.read_csv(r"C:\Users\Lenovo\Downloads\Bilby-Interview-Challenge\Submission-PDF-Parser\Documents.csv", header=0)
+excel_file_links_df = pd.read_csv("Documents.csv", header=0)
 
 
 """# **STEP - 1**
