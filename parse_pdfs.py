@@ -9,7 +9,7 @@ Original file is located at
 Importing Necessary Libraries for the Project
 """
 
-!pip install pdfplumber
+'''!pip install pdfplumber
 
 !apt-get update
 !apt-get install -y ghostscript libgl1
@@ -28,12 +28,10 @@ Importing Necessary Libraries for the Project
 !pip install pdfminer.high_level
 
 #uploading csv file to Google colab and checking if uploaded
-from google.colab import files
-excel_sheet_file_url = files.upload()
-list(excel_sheet_file_url.keys())
+#from google.colab import files
+#excel_sheet_file_url = files.upload()
+#list(excel_sheet_file_url.keys())'''
 
-#Reading the file in pandas df
-excel_file_links_df = pd.read_csv("Documents.csv", header=0)
 
 """Importing Necessary Libraries for the Project"""
 
@@ -54,10 +52,9 @@ import fitz
 import camelot
 from pdfminer.high_level import extract_text as pdfminer_extract
 
-"""# **RUN THE WHOLE PIPELINE**
-#Entry Point
-"""
 
+#Reading the file in pandas df
+excel_file_links_df = pd.read_csv(r"C:\Users\Lenovo\Downloads\Bilby-Interview-Challenge\Submission-PDF-Parser\Documents.csv", header=0)
 
 
 """# **STEP - 1**
@@ -539,18 +536,7 @@ def parse_document_complete(url, pdf_bytes):
 
     return enforce_json_order(raw)
 
-"""# **STEP - 4**
-#Verifying Output
-"""
 
-parsed_results = []
-
-for url, pdf_bytes in pdfs[:10]:
-    result = parse_document_complete(url, pdf_bytes)
-    parsed_results.append(result)
-
-# Pretty print first document
-print(json.dumps(parsed_results, ensure_ascii=False, indent=2))
 
 """Main Entry Point"""
 
@@ -578,7 +564,7 @@ def main():
     parsed_results = []
 
     print("Processing started for PDF's")
-    for url, pdf_bytes in pdfs[]:
+    for url, pdf_bytes in pdfs:
         print(f"Processing: {url}")
         result = parse_document_complete(url, pdf_bytes)
         parsed_results.append(result)
@@ -588,6 +574,8 @@ def main():
         json.dump(parsed_results, f, ensure_ascii=False, indent=2)
 
     print("\n✔ Finished! Output saved to parsed_results.json")
+
+    print("Sample Output Result:\n", json.dumps(parsed_results[0], ensure_ascii=False, indent=2))
 
 
 # RUN ONLY IF FILE IS EXECUTED DIRECTLY
